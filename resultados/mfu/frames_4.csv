@@ -1,0 +1,5 @@
+Trace,PageFaults,PagesWritten
+traces/trace1.trace,628000,118142
+traces/trace2.trace,715062,104838
+traces/trace3.trace,792330,159527
+traces/trace4.trace,762532,66372
